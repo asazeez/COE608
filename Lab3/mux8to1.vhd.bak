@@ -1,0 +1,20 @@
+library ieee;
+use ieee.std_logic_1164.ALL;
+use ieee.std_logic_arith.ALL;
+use ieee.std_logic_unsigned.ALL;
+
+entity mux8to1 is 
+port (
+	w0: input std_logic_vector (31 downto 0);
+	w1: input std_logic_vector (31 downto 0);
+	w2: input std_logic_vector (31 downto 0);
+	w3: input std_logic_vector (31 downto 0);
+	w4: input std_logic_vector (31 downto 0);
+	w5: input std_logic_vector (31 downto 0);
+	w6: input std_logic_vector (31 downto 0);
+	w7: input std_logic_vector (31 downto 0);
+	s:  input std_logic_vector (2 downto 0);
+	y: output std_logic_vector (31 downto 0)
+	
+);
+end mux8to1;

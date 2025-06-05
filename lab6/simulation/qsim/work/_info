@@ -1,0 +1,161 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/student1/a337pate/COE608/lab6/simulation/qsim
+vCPU_TEST_Sim
+Z1 !s100 QCL6GJflU3U;B8L3m<ijT3
+Z2 I[H4g2DE<F2OKWc6VSJPXV1
+Z3 VD4Xfl_9czkNN5Jl]^TkD92
+Z4 d/home/student2/asazeez/Desktop/COE608/lab6/simulation/qsim
+Z5 w1681214982
+Z6 8lab6.vo
+Z7 Flab6.vo
+L0 32
+Z8 OV;L;10.1e;51
+r1
+31
+Z9 !s90 -work|work|lab6.vo|
+Z10 o-work work -O0
+Z11 n@c@p@u_@t@e@s@t_@sim
+!i10b 1
+!s85 0
+Z12 !s108 1681214984.545508
+Z13 !s107 lab6.vo|
+!s101 -O0
+vCPU_TEST_Sim_vlg_check_tst
+!i10b 1
+Z14 !s100 59ac`@Sa^Oc:aKmG0d5G60
+Z15 Ibo@L_nE3gIlWG70HOGB@>3
+Z16 VAN8OL5PC]SYlnbFkPekba3
+R4
+Z17 w1681214979
+Z18 8CPU_TEST_Sim.vwf.vt
+Z19 FCPU_TEST_Sim.vwf.vt
+L0 62
+R8
+r1
+!s85 0
+31
+Z20 !s108 1681214985.036066
+Z21 !s107 CPU_TEST_Sim.vwf.vt|
+Z22 !s90 -work|work|CPU_TEST_Sim.vwf.vt|
+!s101 -O0
+R10
+Z23 n@c@p@u_@t@e@s@t_@sim_vlg_check_tst
+vCPU_TEST_Sim_vlg_sample_tst
+!i10b 1
+Z24 !s100 U=DL:aIZ^FH[0c5LGcVHh3
+Z25 Iee>GS:4<Ub6e`FHTSLJ_e2
+Z26 V8I[2ieW7H@BD=24IJ7VZ<3
+R4
+R17
+R18
+R19
+L0 30
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@c@p@u_@t@e@s@t_@sim_vlg_sample_tst
+vCPU_TEST_Sim_vlg_vec_tst
+!i10b 1
+Z28 !s100 ?JYVYo6cjm50Z55QbRoJ81
+Z29 I^N46?`5QMP1;:EhAUU9hC3
+Z30 VjbJ[P:gO<7[a^MA>VFC3^0
+R4
+R17
+R18
+R19
+Z31 L0 3947
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z32 n@c@p@u_@t@e@s@t_@sim_vlg_vec_tst
+vreset_circuit
+Z33 !s100 iH76zBno`HJU4R3o?2WP33
+Z34 IfhQISF]CjVNKATS32>aNJ3
+Z35 VX6PUg_Pk=f7R=Q<O4cblS1
+Z36 d/home/student1/a337pate/COE608/lab6/simulation/qsim
+Z37 w1680756687
+R6
+R7
+L0 32
+R8
+r1
+31
+R9
+R10
+Z38 !s108 1680756692.339063
+R13
+!i10b 1
+!s85 0
+!s101 -O0
+vreset_circuit_vlg_check_tst
+Z39 IRBVm2>nf72:nKLWcGYLmD1
+Z40 VZb6@KVdelz<WBKjZPdQY21
+R36
+Z41 w1680756684
+Z42 8reset_circuit.vwf.vt
+Z43 Freset_circuit.vwf.vt
+L0 60
+R8
+r1
+31
+Z44 !s108 1680756692.484522
+Z45 !s107 reset_circuit.vwf.vt|
+Z46 !s90 -work|work|reset_circuit.vwf.vt|
+R10
+Z47 !s100 H=^d52QHEHoH]LiDmCYQF1
+!i10b 1
+!s85 0
+!s101 -O0
+vreset_circuit_vlg_sample_tst
+Z48 !s100 fPhO@o;Ag9MCl1Y_mCgcK0
+Z49 IfKY6OofHGXmRQJ`zEBoj@2
+Z50 VchRe=FW_oUGW3cVWBH<T[2
+R36
+R41
+R42
+R43
+L0 30
+R8
+r1
+31
+R44
+R45
+R46
+R10
+!i10b 1
+!s85 0
+!s101 -O0
+vreset_circuit_vlg_vec_tst
+Z51 IeIe3aU20K=1V^YzPR5m:R1
+Z52 VcKo;kHI`I@LOVUL?n3kh]1
+R36
+R41
+R42
+R43
+Z53 L0 182
+R8
+r1
+31
+R44
+R45
+R46
+R10
+Z54 !s100 f]_^9Z3g;?oel1XU6ekIc3
+!i10b 1
+!s85 0
+!s101 -O0

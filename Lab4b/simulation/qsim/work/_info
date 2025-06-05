@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/student2/asazeez/Desktop/COE608/Lab4b/simulation/qsim
+vdata_path
+Z1 !s100 2hRH]XdPin;8QZ=;NAU^@3
+Z2 IZ_Sea3f_mWK<[^dzl;COY1
+Z3 V3B>Dkh:Wd=3Jzclm`9dYe3
+Z4 d/home/student2/asazeez/Desktop/COE608/Lab4b/simulation/qsim
+Z5 w1679077206
+Z6 8Lab4b.vo
+Z7 FLab4b.vo
+L0 32
+Z8 OV;L;10.1e;51
+r1
+31
+Z9 !s90 -work|work|Lab4b.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1679077211.019333
+Z12 !s107 Lab4b.vo|
+!s101 -O0
+vdata_path_vlg_check_tst
+!i10b 1
+!s100 7jon2:_>5TbEQD:CGBZ=z0
+Ic5ZZ8mJce^DgnE6IaI@TK2
+Z13 VDb<SL3dHWEIA;<o[I2>bK1
+R4
+Z14 w1679077202
+Z15 8addi.vwf.vt
+Z16 Faddi.vwf.vt
+Z17 L0 106
+R8
+r1
+!s85 0
+31
+Z18 !s108 1679077213.836375
+Z19 !s107 addi.vwf.vt|
+Z20 !s90 -work|work|addi.vwf.vt|
+!s101 -O0
+R10
+vdata_path_vlg_sample_tst
+!i10b 1
+!s100 Y<]K8JgnGLDQ^c=aeBG;?3
+IHfa9lIa=W2kzBhCBbR2`S1
+Z21 V<o6IZ<OTzhNKeJA^@`7QI1
+R4
+R14
+R15
+R16
+L0 30
+R8
+r1
+!s85 0
+31
+R18
+R19
+R20
+!s101 -O0
+R10
+vdata_path_vlg_vec_tst
+!i10b 1
+!s100 01;z>GhPRcB3JWP0h_mFM1
+I=E?NXUL;kTDZ?hF9KJjE?3
+Z22 V<2mQW@a1]Jke01i<dn2R20
+R4
+R14
+R15
+R16
+Z23 L0 2545
+R8
+r1
+!s85 0
+31
+R18
+R19
+R20
+!s101 -O0
+R10

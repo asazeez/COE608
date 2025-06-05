@@ -1,0 +1,30 @@
+library ieee;
+use ieee.std_logic_1164.ALL;
+use ieee.std_logic_arith.ALL;
+use ieee.std_logic_unsigned.ALL;
+
+entity alu is
+port (
+	a_in : in std_logic_vector(31 downto 0);
+	b_in : in std_logic_vector(31 downto 0);
+	op   : in std_logic_vector (3 downto 0);
+	result : out std_logic_vector (31 downto 0);
+	zero : out std_logic;
+	cout : out std_logic
+	); 
+	end alu; 
+	
+architecture behavior of alu is 
+component adder32
+port (
+		a_in : in std_logic_vector(31 downto 0);
+		b_in : in std_logic_vector(31 downto 0);
+		c_in : in std_logic;
+		sum_out : out std_logic_vector (31 downto 0);
+		c_out : out std_logic
+);
+end component
+
+signal sum_result : 
+ 
+end behaviour; 	

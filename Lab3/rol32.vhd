@@ -1,0 +1,17 @@
+library ieee;
+use ieee.std_logic_1164.ALL;
+use ieee.std_logic_arith.ALL;
+use ieee.std_logic_unsigned.ALL;
+
+entity rol32 is 
+port (
+	a	: in std_logic_vector(31 downto 0);
+	f 	: out std_logic_vector(31 downto 0)
+);
+end rol32;
+
+architecture behavior of rol32 is
+begin 
+	f (31 downto 1) <= a (30 downto 0);
+	f (0) <= a(31);
+end behavior;
